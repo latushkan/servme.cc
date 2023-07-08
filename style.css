@@ -3,3 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* Footer */
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: black;
+}
+
+.footer p{
+    text-decoration: none;
+    color: white;
+    padding: 8px 25px;
+    transition: all .5s ease;
+}
